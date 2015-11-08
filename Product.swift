@@ -19,6 +19,7 @@ class Product {
     {
         self.title = title
         self.description = description
+        
     }
 }
 
